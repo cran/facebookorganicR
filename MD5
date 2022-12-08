@@ -1,0 +1,15 @@
+8272e1ef80e4dd3f3173743e7aa90325 *DESCRIPTION
+abc191787adec69d181539495bf50e15 *NAMESPACE
+ad630b4359d5161b91ff1d421e6faa8b *NEWS.md
+8655532b2c114485b1cb2e9d5471393b *R/fetch_facebookorganic.R
+1aed58d75f5a8acf48cc33adb3942426 *R/my_facebookorganic_data.R
+4d8b5c62c39844fc071bbff25de41e53 *README.md
+faa7af1f7e33a44b658b735e629d90e6 *build/vignette.rds
+8216f2d59e57edd8fbb1d3c615583bce *data/my_facebookorganic_data.RData
+a1a1e20682a65d70b3c2f5952ae72314 *inst/doc/tutorial.R
+26e45a6178e2fd5d94ea6f8d8e3f76cd *inst/doc/tutorial.Rmd
+f40ff37d5f5a6fef1e5bf80fe126bf01 *inst/doc/tutorial.html
+518d25f8fd89786ec5da0b6664e66425 *man/fetch_facebookorganic.Rd
+ad867babb716354d2faf11e077a9b05a *man/my_facebookorganic_data.Rd
+8216f2d59e57edd8fbb1d3c615583bce *vignettes/my_facebookorganic_data.RData
+26e45a6178e2fd5d94ea6f8d8e3f76cd *vignettes/tutorial.Rmd
